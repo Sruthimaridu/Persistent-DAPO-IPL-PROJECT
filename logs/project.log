@@ -1,0 +1,22 @@
+2025-08-12 19:16:25,423 - INFO - DAPO_IPL_Project - Starting data load to MySQL...
+2025-08-12 19:16:29,806 - INFO - DAPO_IPL_Project - Old data cleared from tables.
+2025-08-12 19:16:30,726 - INFO - DAPO_IPL_Project - Matches data loaded successfully.
+2025-08-12 19:19:09,342 - INFO - DAPO_IPL_Project - Deliveries data loaded successfully.
+2025-08-12 19:19:09,778 - INFO - DAPO_IPL_Project - Data load completed successfully.
+2025-08-12 19:19:12,596 - INFO - DAPO_IPL_Project - Displaying menu to user.
+2025-08-12 19:19:29,997 - INFO - DAPO_IPL_Project - User selected menu option: 1
+2025-08-12 19:20:20,265 - INFO - DAPO_IPL_Project - Displaying menu to user.
+2025-08-12 19:20:25,199 - INFO - DAPO_IPL_Project - User selected menu option: 2
+2025-08-12 19:20:41,303 - INFO - DAPO_IPL_Project - Displaying menu to user.
+2025-08-12 19:20:49,614 - INFO - DAPO_IPL_Project - User selected menu option: 9
+2025-08-12 19:20:51,982 - INFO - DAPO_IPL_Project - Displaying menu to user.
+2025-08-12 19:21:04,410 - INFO - DAPO_IPL_Project - User selected menu option: 11
+2025-08-12 19:21:07,095 - INFO - DAPO_IPL_Project - Displaying menu to user.
+2025-08-12 19:21:16,237 - INFO - DAPO_IPL_Project - User selected menu option: 12
+2025-08-12 19:21:18,958 - INFO - DAPO_IPL_Project - Displaying menu to user.
+2025-08-12 19:21:21,594 - INFO - DAPO_IPL_Project - User selected menu option: 13
+2025-08-12 19:21:21,596 - WARNING - DAPO_IPL_Project - Invalid menu choice: 13
+2025-08-12 19:21:21,596 - ERROR - DAPO_IPL_Project - Invalid choice. Please select a valid option.
+2025-08-12 19:21:21,596 - INFO - DAPO_IPL_Project - Displaying menu to user.
+2025-08-12 19:21:27,290 - INFO - DAPO_IPL_Project - User selected menu option: 0
+2025-08-12 19:21:27,292 - INFO - DAPO_IPL_Project - User exited the program.
