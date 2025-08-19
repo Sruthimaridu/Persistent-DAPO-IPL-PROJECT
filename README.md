@@ -37,9 +37,9 @@ The goal of this project is to transform raw cricket datasets into actionable in
 
 **Programming Language:** Python 
 
-**Database:** MySQL 🗄
+**Database:** MySQL 
 
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+**Libraries:** Pandas, Matplotlib, OS Library
 
 **File Handling:** CSV for data storage and retrieval
 
@@ -55,13 +55,13 @@ The goal of this project is to transform raw cricket datasets into actionable in
 
  **Outcome**
 
-**.** This project helps cricket enthusiasts, analysts, and developers to:
+ This project helps cricket enthusiasts, analysts, and developers to:
 
-**.** Understand team dominance and consistency over the years.
+**->** Understand team dominance and consistency over the years
 
-**.** Identify star performers of every season.
+**->** Identify star performers of every season
 
-**.** Explore data-driven patterns behind team strategies.
+**->** Explore data-driven patterns behind team strategies
 
-**.** Build a foundation for sports analytics projects using Python and SQL.
+**->** Build a foundation for sports analytics projects using Python and SQ
 
