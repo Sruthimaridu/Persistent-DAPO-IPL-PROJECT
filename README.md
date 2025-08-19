@@ -1,4 +1,6 @@
-**🏏 IPL Performance Analysis(2008-2019)**
+**🏏 IPL Performance Analysis (2008-2019)**
+
+
 **Project Overview**
 
 This project focuses on analyzing cricket match data to uncover meaningful insights about team and player performance across multiple seasons. Using Python, SQL, Pandas, and visualization libraries, the project provides an in-depth look at batting, bowling, and team statistics.
@@ -53,17 +55,13 @@ The goal of this project is to transform raw cricket datasets into actionable in
 
  **Outcome**
 
-This project helps cricket enthusiasts, analysts, and developers to:
+**.** This project helps cricket enthusiasts, analysts, and developers to:
 
-Understand team dominance and consistency over the years.
+**.** Understand team dominance and consistency over the years.
 
-Identify star performers of every season.
+**.** Identify star performers of every season.
 
-Explore data-driven patterns behind team strategies.
+**.** Explore data-driven patterns behind team strategies.
 
-Build a foundation for sports analytics projects using Python and SQL.
+**.** Build a foundation for sports analytics projects using Python and SQL.
 
-
-Explore data-driven patterns behind team strategies.
-
-Build a foundation for sports analytics projects using Python + SQL.
