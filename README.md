@@ -19,12 +19,17 @@ The goal of this project is to transform raw cricket datasets into actionable in
 
 **Features**
 
-✔️ Team Analysis – Titles won, finals reached, win/loss records.
-✔️ Player Insights – Top run-scorers and wicket-takers per season.
-✔️ Season Reports – Yearly performance breakdown for all teams.
-✔️ Interactive Menu (Console-based) – Easy navigation for users to select teams or view season stats.
-✔️ Visualizations – Charts and graphs for better understanding of team comparisons and trends.
-✔️ Custom Exceptions – Ensures clean data handling and robust execution.
+✔️ Team Analysis – Titles won, finals reached, win/loss records
+
+✔️ Player Insights – Top run-scorers and wicket-takers per season
+
+✔️ Season Reports – Yearly performance breakdown for all teams
+
+✔️ Interactive Menu (Console-based) – Easy navigation for users to select teams or view season stats
+
+✔️ Visualizations – Charts and graphs for better understanding of team comparisons and trends
+
+✔️ Custom Exceptions – Ensures clean data handling and robust execution
 
 **Tech Stack**
 
